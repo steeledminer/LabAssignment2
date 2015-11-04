@@ -1,0 +1,37 @@
+====================================
+=============READ ME================
+====================================
+
+************************************
+CONTENTS:
+1. How to Compile and Run
+2. How to Use
+3. How to Clean
+4. Credits
+
+************************************
+HOW TO COMPILE AND RUN
+------------------------------------
+To compile, extract the enclosed files to the desired folder.
+Open the command prompt and change directory to the specified
+folder and type "make Labassignment4".
+
+************************************
+HOW TO USE
+------------------------------------
+This program uses the input arguments to search through a specified
+range with a specified number of threads.
+In the command prompt change directory to the folder "LabAssignment4"
+is in, and type "./Labassignment4 <Int1> <Int2>", where <Int1> is the
+number of threads desired, and <Int2> is the desired range. It'll
+proceed to output all primes within the range.
+Note: Make sure <Int2> is divisible by <Int1>.
+Note2: Output can be messy.
+
+
+***********************************
+CREDITS
+-----------------------------------
+Programmed by Andrew Hingst, ID 5043535
+
+***********************************
